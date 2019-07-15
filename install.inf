@@ -1,0 +1,13 @@
+[info]
+title=Formatter for XML, using indent_x
+desc=
+type=cudatext-plugin
+subdir=cuda_fmt_xml_indentx
+homepage=https://github.com/CudaText-addons/cuda_fmt_xml_indentx
+
+[fmt1]
+caption=XML IndentX
+method=format_xml
+lexers=XML
+force_all=1
+config=cuda_fmt_xml_indentx.json
